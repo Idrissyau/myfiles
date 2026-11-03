@@ -1,0 +1,12 @@
+﻿category_id,category_name,category_description,category_status
+CAT-001,Breakfast,Foods commonly served at breakfast,active
+CAT-002,Lunch,Foods commonly served at lunch,active
+CAT-003,Dinner,Foods commonly served at dinner,active
+CAT-004,Snacks,Small snack portions,active
+CAT-005,Desserts,Sweet dishes served as dessert,active
+CAT-006,Smoothies,Blended fruit or vegetable drinks,active
+CAT-007,Drinks,Non-alcoholic drinks,active
+CAT-008,Soups,Liquid or broth-based dishes,active
+CAT-009,Salads,Fresh or warm composed salads,active
+CAT-010,Main Courses,Primary meal dishes,active
+CAT-011,Side Dishes,Accompaniments served with a main dish,active
